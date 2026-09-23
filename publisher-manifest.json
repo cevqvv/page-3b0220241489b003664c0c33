@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9f9f6df217644ae969ecd59b",
+  "owner": "cevqvv",
+  "repo": "page-3b0220241489b003664c0c33",
+  "title": "虎云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3b0220241489b003664c0c33",
+      "a": "虎云",
+      "b": "2027最新官网",
+      "entity": "虎云",
+      "brand": "虎云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3d3f008776e28f32ea09fa10ecf8ea2cee3fa3eee1cf829f2094c29c7a154c66",
+      "content": {
+        "primary_entity": "虎云",
+        "keyword1": "虎云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，完成订阅导入与连接。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数与流量需求选定套餐，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_DESCRIPTION": "，面向跨境上网、流媒体观看与游戏加速场景，提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量、3 台设备，适合手机与笔记本日常使用；旗舰版每月 300GB、5 台设备，带 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备，支持企业定制路由。年付方案分别为 ¥150/年、¥350/年与 ¥850/年，可按设备数量与订阅周期直接对比选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数和专线能力三个维度挑选合适档次。",
+          "AI_FEATURES_TITLE": "套餐亮点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB/月、3 台设备，旗舰版 300GB/月、5 台设备，按用量选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化，团队版含 VIP 高带宽节点。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "线路能力",
+          "AI_FEATURE_TITLE_3": "计费周期",
+          "AI_GUIDE_INTRO": "按选择服务、核对设备、配置订阅三步开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "虎云提供基础版、旗舰版与团队版三档海外加速订阅，覆盖 100GB 至 1000GB 月流量与 3 至 20 台设备，包含普通线路池、IPLC 专线游戏加速优化与 VIP 高带宽节点，适配流媒体观看、跨境办公与游戏加速等场景。",
+          "AI_HERO_SUBTITLE": "虎云海外加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案降低长期使用成本",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数与线路能力，选定后按周期订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量与在线设备数，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "核对设备系统与客户端适配要求，确认套餐支持的设备数量是否覆盖常用终端。",
+          "AI_STEP_TEXT_3": "参照所选客户端的订阅配置文档，导入订阅信息并完成连接设置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "虎云加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月 100GB 流量与 3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线；团队版每月 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "套餐内已明确标注可同时在线设备数，基础版 3 台、旗舰版 5 台、团队版 20 台，超出后需升级套餐或减少同时连接。",
+          "AI_FAQ_ANSWER_3": "在客户端中把节点订阅地址粘贴进去，手动触发一次更新，节点列表就会同步，之后可不定期手动刷新获取最新线路。",
+          "AI_FAQ_ANSWER_4": "按月付费灵活，按年付费价格更优，例如旗舰版年付仅需 ¥350/年，团队版年付仅需 ¥850/年，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_5": "解锁能力因套餐而异，基础版支持基础流媒体，旗舰版与团队版提供全节点原生流媒体解锁与高带宽节点，可按需求选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "虎云三档套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "套餐允许几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "订阅链接如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "按月付和按年付有什么区别？",
+          "AI_FAQ_QUESTION_5": "不同套餐的流媒体解锁有差异吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq52et30a.org",
+    "host": "xn--9kq52et30a.org"
+  },
+  "file_hashes": {
+    "index.html": "37d732e1770dfbb65c696e871d9a7ede3119ac05c1c79c2badfd9a3781f335fa",
+    "sitemap.xml": "a454aad33f06254323b6f12c77156c4b6658d84c1fab1b7d6d75bef033f52336",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "70237c78cd315c99163412a2556cd5471a363e2ba66d519c172ffbb819ebda98",
+    "robots.txt": "7915cfdb3704b0faf7ba70a381d8d90639ff105c11b24f2db536fc7b5cf8c06d",
+    "474aa18997e0e1e155cd5205c716a080.txt": "ac210047724aafafde98348e5e9e463cbb49c0199078f3c058762d7700baffb8"
+  },
+  "revision": "880da03392ab415f0681a1f185240e89a4be6a8a00993f64df89a2a32bdd4af5"
+}
